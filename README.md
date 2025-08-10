@@ -24,11 +24,23 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 
 <h1 align="center"></h1>
 
+### Características de XilentLogger `1.0`:
+
+- [x] **Registro:** El Keylogger registra las pulsaciones del teclado y toma capturas de pantalla cada 1 minuto para luego ser enviada al servicio SMTP.
+
+      
+
+<h1 align="center"></h1>
+
 #### Modo de uso
 
 Se debe de crear una cuenta en <a href="https://mailtrap.io/">Mailtrap</a> y configurar las credenciales de SMTP en el archivo `SMTP_config.py`.
 
 <img width="762" height="393" alt="1" src="https://github.com/user-attachments/assets/11007363-16a1-4d31-aa03-5986b9ff5261" />
+
+Pueden ajustar el intervalo de tiempo de envío en el mismo archivo.
+
+<img width="438" height="142" alt="2" src="https://github.com/user-attachments/assets/270db7a7-e2ce-4942-bac1-a34109a96a5c" />
 
 <h1 align="center"></h1>
 
