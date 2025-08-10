@@ -13,3 +13,13 @@
 </p>
 
 <h1 align="center"></h1>
+
+### Acerca de XilentLogger
+
+XilentLogger es un Keylogger desarrollado en código Python puro para sistemas Windows. Un keylogger es un tipo de software diseñado para registrar las pulsaciones de teclas que realiza el usuario en su teclado. 
+
+Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentLocker</a>, <a href="https://github.com/R3LI4NT/XilentRAT">XilentRAT</a>y <a href="https://github.com/R3LI4NT/XilentDoor">XilentDoor</a>.
+
+**Testeado en:** Windows 10/11.
+
+<h1 align="center"></h1>
