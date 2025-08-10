@@ -28,7 +28,7 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 
 - [x] **Registro:** El Keylogger registra las pulsaciones del teclado y toma capturas de pantalla cada 1 minuto para luego ser enviada al servicio SMTP.
 
-      
+    [Ver demostración en video](https://files.catbox.moe/wv7igv.mp4)
 
 <h1 align="center"></h1>
 
