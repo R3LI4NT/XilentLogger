@@ -26,7 +26,7 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 
 ### Características de XilentLogger `1.0`:
 
-- [x] **Registro:** El Keylogger registra las pulsaciones del teclado y toma capturas de pantalla cada 1 minuto para luego ser enviada al servicio SMTP.
+- [x] **Registro:** El Keylogger registra las pulsaciones del teclado y toma capturas de pantalla cada 1 minuto para luego ser enviada al servicio SMTP. Los archivos son almacenados en la ruta temporal `C:\Windows\Temp`.
 
     https://github.com/user-attachments/assets/3959443a-96ab-4274-9a9c-f4182969b330
 
