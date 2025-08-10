@@ -23,3 +23,24 @@ Es parte de la familia <a href="https://github.com/R3LI4NT/XilentLocker">XilentL
 **Testeado en:** Windows 10/11.
 
 <h1 align="center"></h1>
+
+#### Modo de uso
+
+Se debe de crear una cuenta en <a href="https://mailtrap.io/">Mailtrap</a> y configurar las credenciales de SMTP en el archivo `SMTP_config.py`.
+
+<img width="762" height="393" alt="1" src="https://github.com/user-attachments/assets/11007363-16a1-4d31-aa03-5986b9ff5261" />
+
+<h1 align="center"></h1>
+
+Correo de contacto:
+
+<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<h1 align="center"></h1>
+
+> [!CAUTION]
+> Cualquier uso indebido de este software será de exclusiva responsabilidad del usuario final, y no del autor. Este proyecto tiene como objetivo inicial demostrar las capacidades de Python como lenguaje para el desarrollo de malware en entornos controlados. 
+
+<h1 align="center"></h1>
+
+#### Developer: ~R3LI4NT~
